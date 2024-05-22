@@ -1,0 +1,321 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    width: 100%;
+    height: 135rem;
+    background-color: antiquewhite;
+}
+
+.main2{
+        width: 100%;
+        height: 138rem;
+        background-color: black;
+}
+
+.header{
+    width: 100%;
+    height: 40px;
+    background:linear-gradient(tto right,black,rgb(99, 95, 95),rgb(127, 106, 106));
+    display: flex;
+    flex-direction: row;
+}
+
+
+#menu{
+    width: 100px;
+    height: 40px;
+    /* background-color: green; */
+}
+.prime{
+    width: 160px;
+    height: 40px;
+    /* background-color: green; */
+    margin-left: 200px;
+}
+
+.store{
+    width: 100px;
+    height: 40px;
+    /* background-color: green; */
+    margin-left: 20px;
+}
+
+
+.live{
+    width: 100px;
+    height: 40px;
+    /* background-color: green; */
+    margin-left: 20px;
+}
+
+.cato{
+    width: 130px;
+    height: 40px;
+    /* background-color: green; */
+    margin-left: 20px;
+}
+
+.srch{
+    width: 30px;
+    height: 40px;
+    padding-top: 10px;
+    /* background-color: green; */
+    margin-left: 20px;
+}
+
+.try{
+    width: 160px;
+    height: 40px;
+    /* background-color: green; */
+    margin-left: 20px;
+}
+
+.en{
+    width: 40px;
+    height: 40px;
+    /* background-color: green; */
+    margin-left: 20px;
+}
+
+.logo{
+    width: 50px;
+    height: 40px;
+    /* background-color: aquamarine; */
+    padding-left: 10px;
+    padding-top: 5px;
+    margin-left: 20px;
+}
+
+.header2{
+    width: 100%;
+    height: 500px;
+    background-color: bisque;
+    display: flex;
+}
+
+
+.one{
+    width: 43%;
+    height:500px; 
+   background: linear-gradient(to right,black,rgb(101, 38, 38),rgb(35, 29, 29));
+}
+
+.watch{
+    width: 400px;
+    height: 60px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.watch2{
+    width: 700px;
+    height: 80px;
+    /* background-color: aqua; */
+   
+}
+.sign{
+    margin-top: 30px;
+  margin-left: 30px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 21px;
+    color: white;
+    width: 200px;
+    padding-top: 10px;
+    height: 50px;
+    background-color: rgb(54, 54, 234);
+
+}
+.two{
+    width: 45%;
+    height: 500px;
+    /* background-color: brown; */
+    
+   
+}
+#tiger:hover{
+    transition: .3s;
+}
+
+.three{
+width: 17%;
+height: 500px;
+background-color: rgb(128, 84, 84);
+}
+
+.img{
+    width: 300px;
+    height:170px;
+}
+
+
+.header3{
+    width: 100%;
+      height: 500px;
+      /* background-color: blueviolet;   */
+      display: flex;
+}
+
+
+.watch2{
+    width: 400px;
+    height: 80px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.twoo{
+    width: 100%;
+    height: 500px;
+    background-color: brown;
+}
+
+
+.bbc{
+    width: 100%;
+    height: 43rem;
+    /* background-color: rgb(128, 84, 84); */
+    display: flex;
+}
+
+.bbcone{
+    width: 50%;
+    height:43rem;
+    background-color:white;
+}
+.bbctwo{
+    width: 50%;
+    height:43rem;
+    background-color:white;
+}
+
+
+
+.big{
+    width: 90%;
+    height: 42rem;
+    /* background-color: rgb(81, 81, 137); */
+    
+    
+                
+     
+
+}
+
+.row1{
+    margin-top: 7px;
+    width: 100%;
+    height: 10rem;
+    /* background-color: antiquewhite; */
+    display: flex;
+    gap: 5px;
+}
+.rone{
+    width: 33%;
+    height: 10rem;
+    /* background-color: rgb(25, 47, 192); */
+    background: linear-gradient(to right,rgb(74, 74, 110),rgb(50, 50, 124),rgb(5, 5, 88));
+    border: 5px solid rgb(54, 52, 52);
+}
+
+.rtwo{
+    width: 33%;
+    height: 10rem;
+    background: linear-gradient(to right,rgb(74, 74, 110),rgb(50, 50, 124),rgb(5, 5, 88));
+    border: 5px solid rgb(54, 52, 52);
+
+}
+.rthree{
+    width: 33%;
+    height: 10rem;
+    background: linear-gradient(to right,rgb(74, 74, 110),rgb(50, 50, 124),rgb(5, 5, 88));
+    border: 5px solid rgb(54, 52, 52);
+}
+
+
+
+
+.row2{
+    width: 100%;
+    height: 10rem;
+    /* background-color: rgb(106, 99, 90); */
+    display: flex;
+    gap: 5px;
+    margin-top: 10px;
+}
+
+
+.row3{
+    margin-top: 10px;
+    width: 100%;
+    height: 10rem;
+    /* background-color: rgb(106, 75, 33); */
+    display: flex;
+    gap: 5px;
+}
+
+
+.row4{
+    margin-top: 10px;
+    width: 100%;
+    height: 10rem;
+    /* background-color: rgb(17, 173, 11); */
+    display: flex;
+    gap: 5px;
+}
+
+
+.bone{
+    background-color: blue;
+     
+}   
+.btwo{
+    background-color: brown;
+}
+
+
+
+
+.remote{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(39, 35, 35);
+    display: flex;
+}
+
+.remo{
+    width: 50%;
+    height: 500px;
+}
+
+.remo2{
+    width: 800px;
+    height: 400px;
+  background: linear-gradient(to right,rgb(88, 86, 86),rgb(30, 28, 28),black);
+}
+
+
+
+
+
+
+
+.last{
+    width: 100%;
+    height: 100px;
+    background-color:rgb(56, 54, 54);
+}
+
+
+
+
+
+
+
+
+
+
+
